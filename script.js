@@ -1,5 +1,5 @@
 let currentPlayer = 'X';
-let gameBoard = ['', '', '', '', '', '', '', '', ''];
+let gameBoard = ['', '', '₽', '', '', '', '', '', ''];
 let gameActive = true;
 
 function handlePlayerTurn(clickedCellIndex) {
